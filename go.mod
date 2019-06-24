@@ -1,4 +1,4 @@
-module dbreader
+module github.com/theredcameron/dbreader
 
 go 1.12
 
