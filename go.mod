@@ -1,4 +1,4 @@
-module go-dbreader
+module dbreader
 
 go 1.12
 
